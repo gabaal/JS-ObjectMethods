@@ -1,39 +1,5 @@
 //console.log("Working");
 
-// let cars = [
-//   {
-//     color: "purple",
-//     type: "minivan",
-//     registration: new Date("2017-01-03"),
-//     capacity: 7,
-//   },
-//   {
-//     color: "red",
-//     type: "station wagon",
-//     registration: new Date("2018-03-03"),
-//     capacity: 5,
-//   },
-// ];
-//console.log(cars);
-//add car to first position
-// let car = {
-//   color: "red",
-//   type: "cabrio",
-//   registration: new Date("2016-05-02"),
-//   capacity: 2,
-// };
-//cars.unshift(car);
-//console.log(cars);
-//add car to last position
-// let car = {
-//   color: "red",
-//   type: "cabrio",
-//   registration: new Date("2016-05-02"),
-//   capacity: 2,
-// };
-// cars.push(car);
-// console.log(cars);
-
 const person = {
   name: "Bob",
   age: 30,
